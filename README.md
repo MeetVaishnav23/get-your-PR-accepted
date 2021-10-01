@@ -1,4 +1,4 @@
-<h1 align="center">get-your-PR-accepted <img src="https://visitor-badge.laobi.icu/badge?page_id=SamarjeetBanik.get-your-PR-accepted" alt="visitCount"></h1>
+<h1 align="center">Get-Your-PR-Accepted <img src="https://visitor-badge.laobi.icu/badge?page_id=SamarjeetBanik.get-your-PR-accepted" alt="visitCount"></h1>
 
 <p align="center">
     <img src="https://github.com/HacOkars/Hacktoberfest-2021/blob/main/assets/images/logo-hacktoberfest-2021.svg" alt="Hacktoberfest-2021 Logo" width="350">
